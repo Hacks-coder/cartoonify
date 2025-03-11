@@ -1,1 +1,5 @@
-<h1>home page</h1>
+<script>
+	import ReadMore from "../../../Main/About/ReadMore.svelte";
+
+</script>
+<ReadMore />

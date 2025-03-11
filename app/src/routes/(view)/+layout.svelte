@@ -1,4 +1,5 @@
 <script lang="ts">
+	import Footer from '../../Footer/Footer.svelte';
 	import Header from '../../Header/Header.svelte';
 	import Hero from '../../Main/others/Hero.svelte';
 
@@ -13,4 +14,5 @@
         <Hero />
     </div>
     {@render children()}
+    <Footer />
 </div>

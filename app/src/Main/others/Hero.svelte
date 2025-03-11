@@ -1,9 +1,6 @@
 <script>
 	import Fill from "../Resuable/Buttons/Fill.svelte";
-
-
 	import Title from "../Resuable/Text/Title.svelte";
-
 </script>
 <section class="flex flex-col items-center mt-20">
     <Title text = "EXPLORE A WORLD OF MYTHICAL CREATURES" />
