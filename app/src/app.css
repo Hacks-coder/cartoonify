@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+@theme {
+    /* fonts */
+    --font-title: 'Krona One', sans-serif;
+    --font-main: 'Inria Sans', sans-serif;
+
+    /* colors */
+    --color-brown: #C77C48;
+    --color-orange: #C83E3F;
+    --color-black: #000000;
+    --color-white: #FFFFFF;
+
+    
+}
+
